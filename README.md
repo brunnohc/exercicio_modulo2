@@ -4,13 +4,14 @@
 
 </div>
 
-# Lista de Tarefas
+# Curso FrontEnd EBAC
 
-Este é um projeto desenvolvido durante o curso em front end e sua finalidade é o armazenamento de tarefas numa lista. 
+Este é um repositório desenvolvido durante o curso em front end da EBAC e nele eu coloco algumas resoluções de exercícios para serem 
+avaliados pelos tutores
 
 ## Funcionalidades
 
--  fomulário com um campo do tipo input que aceita campo tipo texto adicionando as atividades realizadas.
+-  Conhecer um pouco das atividades que venho realizado neste curso.
 
 ## Tecnologias utilizadas
 
@@ -21,10 +22,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - JavaScript
 - Jquery
 
-
-## Uso
-
-Para utilizar a ferramenta, basta acessar o projeto<a href=> Clique aqui</a> 
 
 ## Contribuições
 
