@@ -1,27 +1,30 @@
 <!DOCTYPE html>
-  <html lang="pt-br">
-    <head>
-      <meta charset="UTF-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Formulário de cadastro</title>
-      </head>
-        <body>
-      <h1>Formulário de cadastro</h1>
-    <form>
-      <label for = "nome">Nome</label>
-      <input id="nome" placeholder= "Seu Nome" type="text" />
-    <br/>
-      <label for = "email">Email</label>
-      <input id="email" placeholder= "Seu Email" type="Email" />
-    <br/>
-      <label for = "password">Senha</label>
-      <input id ="password" placeholder= "Sua Senha" type="password" />
-    <br/>
-      <button type="submit">
-      Cadastrar
-      </button>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header>
+        <h1>Lista de Tarefas</h1>
+        <button type="button">Nova tarefa</button>
+    </header>
+    <form id="task-form" >
+        <h2>Inserir nova tarefa</h2>
+        <input type="texto" id="task-input" required placeholder="Nome da Tarefa">
+        <button type="submit">Adicionar</button>
+        <button type="reset" id="botao-cancelar">Fechar</button>
     </form>
-  </body>
-</html>
 
+    <ol id="task-list"></ol> 
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
