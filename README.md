@@ -13,10 +13,10 @@ avaliados pelos tutores
 
 -  Conhecer um pouco das atividades que venho realizado neste curso.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas e em desenvolvimento. 
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
+Até o prezente momento tenho aprendido sobre as seguintes tecnologias:
+- Git/GitHub
 - HTML
 - CSS
 - JavaScript
