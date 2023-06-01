@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Uso
 
-Para utilizar a ferramenta, basta acessar o projeto<a href=> Clique aqui</a> 
+Para utilizar a ferramenta, basta acessar o projeto dentro do repositório.
 
 ## Contribuições
 
